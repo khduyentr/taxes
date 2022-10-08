@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taxes/static/css/main.bfaa128d.css",
+    "main.js": "/taxes/static/js/main.8fab020b.js",
+    "index.html": "/taxes/index.html",
+    "main.bfaa128d.css.map": "/taxes/static/css/main.bfaa128d.css.map",
+    "main.8fab020b.js.map": "/taxes/static/js/main.8fab020b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfaa128d.css",
+    "static/js/main.8fab020b.js"
+  ]
+}
